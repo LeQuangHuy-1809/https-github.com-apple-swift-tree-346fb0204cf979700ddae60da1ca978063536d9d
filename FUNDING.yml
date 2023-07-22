@@ -18,3 +18,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/LeQuangHuy-1809/https-github.com-apple-swift-tree-346fb0204cf979700ddae60da1ca978063536d9d.git
 git push -u origin main
+# Create the runner and start the configuration experience
+$ ./config.sh --url https://github.com/LeQuangHuy-1809/https-github.com-apple-swift-tree-346fb0204cf979700ddae60da1ca978063536d9d --token ATZDMXNGGKF6KLFHIZICOHLEXQFVQ
+# Last step, run it!
+$ ./run.sh
