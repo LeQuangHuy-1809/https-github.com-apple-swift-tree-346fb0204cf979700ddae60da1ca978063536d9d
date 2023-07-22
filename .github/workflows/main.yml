@@ -1,0 +1,4 @@
+# Create the runner and start the configuration experience
+$ ./config.sh --url https://github.com/LeQuangHuy-1809/https-github.com-apple-swift-tree-346fb0204cf979700ddae60da1ca978063536d9d --token ATZDMXNGGKF6KLFHIZICOHLEXQFVQ
+# Last step, run it!
+$ ./run.sh
